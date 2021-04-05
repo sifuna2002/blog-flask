@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\SIFUNA\\.conda\\envs\\TensorFlow.Env\\python.exe"
+    "python.pythonPath": "C:\\Users\\SIFUNA\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.formatting.provider": "autopep8"
 }
